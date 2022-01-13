@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @patrick-radulian
+- 👀 I’m interested in front-end engineering, react, css, experimentation, xr, games, ux...
+- 🌱 I’m currently learning unreal engine 5, ever more react...
+- 💞️ I’m looking to collaborate on literally everything that's remotely interesting, preferably bleeding-edge stuff...
+
+<!---
+patrick-radulian/patrick-radulian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
